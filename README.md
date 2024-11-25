@@ -12,7 +12,7 @@ Features:
 Installation:
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/stock-management.git
+   git clone https://github.com/mukizafabrice/php-stock-management.git
   
 2. Set up the database:
    - Import the provided stock.sql file into MySQL.
