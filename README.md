@@ -15,7 +15,7 @@ Installation:
    git clone https://github.com/mukizafabrice/php-stock-management.git
   
 2. Set up the database:
-   - Import the provided stock.sql file into MySQL.
+   - Import the provided inventory.sql file into MySQL.
 3. Run the application on a local server (e.g., XAMPP).
 
  Technologies:
@@ -23,6 +23,12 @@ Installation:
 - MySQL
 - JavaScript
 - HTML/CSS
-
+- 
+users of system
+1st for HOD
+2nd fro COORDINATOR
+3rd for LOGISTIC OFFICER
+PASSWORDS  AND NAMEs THAT WILL  ENABLE TO LOG IN WITH DIFFERENT USER :
+hod:123, coordinator:123,logistic:123 
 
 You can adjust the URL and specific steps if needed.
